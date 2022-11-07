@@ -6,7 +6,9 @@ public class Ejercicio03 {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
-		
+
+//Escribe un programa en que dado un número del 1 a 7 escriba el correspondiente nombre del día de la semana.
+
 		int diaSemana;
 		String mensaje;
 		
